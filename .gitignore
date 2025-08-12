@@ -1,0 +1,9 @@
+# Environment variables
+.env
+
+# Python virtual environment
+.venv/
+
+# Large model/data files
+similarity.pkl
+movies.pkl
